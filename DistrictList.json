@@ -1,0 +1,94 @@
+﻿[
+  {
+    "district_id": "0",
+    "district_name": "---Select District---"
+  },
+  {
+    "district_id": "PB001",
+    "district_name": "Amritsar"
+  },
+  {
+    "district_id": "PB019",
+    "district_name": "Barnala"
+  },
+  {
+    "district_id": "PB002",
+    "district_name": "Bathinda"
+  },
+  {
+    "district_id": "PB003",
+    "district_name": "Faridkot"
+  },
+  {
+    "district_id": "PB004",
+    "district_name": "Fatehgarh Sahib"
+  },
+  {
+    "district_id": "PB022",
+    "district_name": "Fazilka"
+  },
+  {
+    "district_id": "PB005",
+    "district_name": "Ferozepur"
+  },
+  {
+    "district_id": "PB006",
+    "district_name": "Gurdaspur"
+  },
+  {
+    "district_id": "PB007",
+    "district_name": "Hoshiarpur"
+  },
+  {
+    "district_id": "PB008",
+    "district_name": "Jalandhar"
+  },
+  {
+    "district_id": "PB009",
+    "district_name": "Kapurthala"
+  },
+  {
+    "district_id": "PB010",
+    "district_name": "Ludhiana"
+  },
+  {
+    "district_id": "PB011",
+    "district_name": "Mansa"
+  },
+  {
+    "district_id": "PB012",
+    "district_name": "Moga"
+  },
+  {
+    "district_id": "PB013",
+    "district_name": "Muktsar"
+  },
+  {
+    "district_id": "PB014",
+    "district_name": "Nawanshahr (Shahid Bhagat Singh Nagar)"
+  },
+  {
+    "district_id": "PB021",
+    "district_name": "Pathankot"
+  },
+  {
+    "district_id": "PB015",
+    "district_name": "Patiala"
+  },
+  {
+    "district_id": "PB016",
+    "district_name": "Rupnagar"
+  },
+  {
+    "district_id": "PB020",
+    "district_name": "Sahibzada Ajit Singh Nagar (Mohali)"
+  },
+  {
+    "district_id": "PB017",
+    "district_name": "Sangrur"
+  },
+  {
+    "district_id": "PB018",
+    "district_name": "Tarn Taran"
+  }
+]
